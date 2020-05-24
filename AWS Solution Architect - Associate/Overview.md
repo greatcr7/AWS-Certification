@@ -4,6 +4,13 @@ This is THE most important official guide to the exam, or any AWS certification 
 # Five Pillars
 ## Operational Excellence
 The ability to run and monitor systems to deliver business value and to continually imrpove supporting processes and procedures.
+### Design Principles for Operational Excellence
+Perform operaiotns as code.
+Annotate documentation.
+Make frequent, small, reversible changes.
+Refine operations procedures frequently.
+Anticipate failure.
+Learn from all operational failures.
 ## Security
 The ability to protect information, system, and assets while delivering business value through risk assessments and mitigation strategies. 
 ## Reliability
