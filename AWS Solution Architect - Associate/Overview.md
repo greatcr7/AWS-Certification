@@ -13,3 +13,10 @@ The ability to use computing resources efficiently to meet system requirements, 
 ## Cost Optimization
 The ability to run systems to deliver business value at the lowest price point.
 
+# General Design Principles
+Stop guessing your capacity needs.
+Test systems at production scale.
+Automate to make architectural experimentation easier.
+Allow for evolutionary architectures.
+Drive architectures using data.
+Improve through game days.
