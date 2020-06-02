@@ -1,0 +1,15 @@
+# 1. Auto Scaling Solutions
+## Auto Scaling Overview
+## Auto Scaling Groups
+## Termination Policies
+## Lab: Auto Scaling COnfiguration
+## Launch Methods
+## Load Balancer Concepts
+## Elastic Load Balancing (ELB)
+
+# 2. Virtual Network Services
+## DNS
+## Lab: Configuring DNS
+## Lab: Configuring Route 53
+## Lab: Configuring ACLs and NACLs
+## Flow Logs
