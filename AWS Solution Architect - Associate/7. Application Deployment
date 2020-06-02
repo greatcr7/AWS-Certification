@@ -1,0 +1,25 @@
+# 1. Designing Cost-Optimized Compute
+## Application and Deployment Services
+## Lambda
+## API Gateway
+## Kinesis
+## Kinesis Data Streams and Firehose
+## Kinesis Data Analytics
+## Reference Architectures
+
+# 2. Designing for Operational Excellence
+## CloudFront
+## Web Application Firewall (WAF)
+## Simple Queue Service (SQS)
+## Simple Notification Service (SNS)
+## Simple Workflow (SWF)
+## Step Functions
+
+# 3. Designing for Elasticity and Scalability
+## OpsWorks
+## Cognito
+## Elastic MapReduce (EMR)
+## CouldFormation
+## CloudWatch
+## Trusted Advisor
+## Organizations
