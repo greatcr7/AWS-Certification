@@ -1,2 +1,2 @@
 # AWS-Certification
-Study material for AWS certifications
+Comprehensive Study Guide for AWS Certifications
