@@ -1,0 +1,20 @@
+# 1. Identity and Access Management (IAM)
+## Identity And Access Management Overview
+## IAM Principals
+## Root User
+## Authentication
+## Authorization Policies
+## Multi-Factor Authentication (MFA)
+## Key Rotation
+## Multiple Permissions
+## AWS Complicance Programs
+## Shared Responsibility Model
+
+# 2. IAM Best Pratices
+## User Accounts
+## Password Policies
+## Credential Rotation
+## Principle of Least Privilege
+## IAM Roles
+## Policy Conditions
+## CloudTrail
