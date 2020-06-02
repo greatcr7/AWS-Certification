@@ -1,0 +1,21 @@
+# 1. Compute Services Design
+## Elastic Compute Cloud (EC2) Overview
+## EC2 Instance Types
+## EC2 Pricing
+## Elastic Block Store (EBS) and EC2
+
+# 2. Compute Services Implementation
+## Lab: Launching an EC2 Linux Instance
+## Lab: Configuring an EC2 Linux Instance
+## Shared Tenancy
+## Dedicated Hosts
+## Dedicated Instances
+## AMI Virtualization
+
+# 3. Compute Services Management
+## Instance Management
+## Lab: Connecting to Instances
+## Working with Security Groups
+## Lab: Working with Security Groups
+## Elastic Container Service (ECS)
+## Elastic Beanstalk Environment
