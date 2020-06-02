@@ -1,0 +1,20 @@
+# 1. AWS Database Design
+## Database Types
+## Relational Databases
+## Database Hosting Methods
+## High-Availability Solutions
+## Scalability Solutions
+## Database Security
+## Aurora
+## Redshift
+## DynamoDB
+
+# 2. AWS Database Deployment
+## Lab: DynamoDB Tables
+## Lab: MySQL
+## Lab: Configurations
+## Lab: Backups
+## Lab: Restore
+## Lab: Snapshot
+## Lab: Monitoring
+
