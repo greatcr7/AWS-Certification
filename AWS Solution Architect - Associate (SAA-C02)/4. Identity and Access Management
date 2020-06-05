@@ -5,10 +5,13 @@
 ## Authentication
 ## Authorization Policies
 ## Multi-Factor Authentication (MFA)
+- It is best practice to use MFA often.
+
 ## Key Rotation
 ## Multiple Permissions
 ## AWS Complicance Programs
 ## Shared Responsibility Model
+- AWS provides security of the cloud: physical hardwares, real network, hypervisor, managed services,
 
 # 2. IAM Best Pratices
 ## User Accounts
@@ -18,3 +21,6 @@
 ## IAM Roles
 ## Policy Conditions
 ## CloudTrail
+- CloudTrail tracks and stores logs, like Splunk.
+- CloudWatch looks and monitors CloudTrail, and alarms you whenever a certain event or anomaly occurs.
+
