@@ -1,9 +1,14 @@
 # 1. Compute Services Design
 ## Elastic Compute Cloud (EC2) Overview
+- EC2 is a virtualmachineinthecloud: software emulating computer.
+- EC2 benefits: Time to market, scalability, reliability, security.
+- EC2 Deployment: Select an Amazon Machine Image/AMI -> Configure networking and security -> Choose an instance type -> Choose the Availability Zone -> Attach storage -> Start the instance.
 ## EC2 Instance Types
+- 
 ## EC2 Pricing
 ## Elastic Block Store (EBS) and EC2
-
+- To use EBS, an EBS-optimized instance should be deployed.
+- PIOPS EBS is linked to certain types of EC2 instances. In order to use higher PIOPS EBS, you have to select pricier EC2 instances.
 # 2. Compute Services Implementation
 ## Lab: Launching an EC2 Linux Instance
 ## Lab: Configuring an EC2 Linux Instance
@@ -14,6 +19,7 @@
 
 # 3. Compute Services Management
 ## Instance Management
+- Bootstrapping: Run ocde in addition to the AMI when launching an instance. 
 ## Lab: Connecting to Instances
 ## Working with Security Groups
 ## Lab: Working with Security Groups
